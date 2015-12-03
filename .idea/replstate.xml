@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ReplState" timestamp="1449071579756">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1449071627318">{:repl-history {:ide [], :local [&quot;(map inc [1 2 3 4 5])&quot; &quot;(pmap inc [1 2 3 4 5])&quot;], :remote []}}</component>
 </project>
